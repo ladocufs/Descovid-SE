@@ -5,7 +5,7 @@
 Aplicativo para monitoramento da situação do COVID-19 em Sergipe
 
 
-![alt text](https://github.com/ladocufs/Descovid-SE/blob/master/prints/home.png)
+![alt text](https://github.com/ladocufs/Descovid-SE/blob/master/prints/home_screen.png)
 
 Feito com Flutter.
 v1.0
