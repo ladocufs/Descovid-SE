@@ -2,7 +2,7 @@
 
 **Descovid-SE**
 
-Aplicativo para monitoramento da situação do COVID-19
+Aplicativo para monitoramento da situação do COVID-19 em Sergipe
 
 
 ![alt text](https://github.com/ladocufs/Descovid-SE/blob/master/prints/home.png)
